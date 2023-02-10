@@ -1,3 +1,3 @@
 # aphasia_app
 
-A new Flutter project.
+An app that will track a user's eye movements over a text and read the words that are focused on out loud. 
